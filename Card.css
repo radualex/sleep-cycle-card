@@ -7,6 +7,12 @@
 
   display: flex;
   flex-direction: row;
+
+  transition: transform 1s;
+}
+
+.full-screen {
+  transform: scale(1.5);
 }
 
 .wrapper .wrapper-info {

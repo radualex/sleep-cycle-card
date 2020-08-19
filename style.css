@@ -3,8 +3,8 @@
   padding: 0;
 }
 
-h1, p {
-  font-family: Lato;
+.material-icons {
+  user-select: none;
 }
 
 .container {
