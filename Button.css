@@ -1,5 +1,12 @@
-.button {
+.button-wrapper {
+  position: relative;
+  margin: 0 0 0 215px;
+}
+
+.button-wrapper .button {
   background: #E0E7F4;
   border-radius: 20px;
   padding: 20px;
+  
+  margin: -20px -20px 0 0;
 }
