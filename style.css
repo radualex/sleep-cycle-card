@@ -8,6 +8,9 @@ h1, p {
 }
 
 .container {
+  height: 99vh;
+  width: 99vw;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
