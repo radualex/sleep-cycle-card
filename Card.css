@@ -35,3 +35,13 @@
 
   color: #0F1220;
 }
+
+.wrapper .wrapper-info .wrapper-sleep-cards {
+  margin: 40px 0 0 0;
+  display: grid;
+
+  grid-template-columns: auto auto;
+  grid-row: auto auto;
+  grid-column-gap: 40px;
+  grid-row-gap: 40px;
+}

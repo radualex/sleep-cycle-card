@@ -1,12 +1,17 @@
 .button-wrapper {
   position: relative;
-  margin: 0 0 0 215px;
+  margin: 0 0 0 56px;
 }
 
 .button-wrapper .button {
   background: #E0E7F4;
   border-radius: 20px;
-  padding: 20px;
+
+  height: 40px;
+  width: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   
   margin: -20px -20px 0 0;
 }

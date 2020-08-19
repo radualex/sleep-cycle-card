@@ -7,7 +7,7 @@ class App extends Component {
   render() {
     return (
       <div className="container">
-        <Card />
+        <Card title={"Today"} subTitle={"Sleep Stages"} />
       </div>
     );
   }
